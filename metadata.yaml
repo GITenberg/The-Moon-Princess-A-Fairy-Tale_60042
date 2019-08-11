@@ -1,5 +1,5 @@
 _repo: The-Moon-Princess-A-Fairy-Tale_60042
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Perkins, Lucy Fitch
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1216'
     url: http://www.gutenberg.org/2009/agents/1216
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+covers:
+- cover_type: archival
+  image_path: 60042-h/images/cover.jpg
 creator:
   author:
     agent_name: Harrison, Edith Ogden
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50757
     wikipedia: https://en.wikipedia.org/wiki/Edith_Ogden_Harrison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60042#The-Moon-Princess-A-Fairy-Tale
 gutenberg_issued: '2019-08-02'
 gutenberg_type: Text
 identifiers:
